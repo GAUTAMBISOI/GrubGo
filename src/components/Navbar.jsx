@@ -31,7 +31,7 @@ const Navbar = ({ toggle, dark }) => {
       >
         <img
           className="h-full w-full overflow-hidden"
-          src="/logo.webp"
+          src="/GrubGo/logo.webp"
           alt=""
         />
       </div>
