@@ -1,22 +1,26 @@
 # 🍔 GrubGo
 
-GrubGo is a modern **Food Delivery Web App** built with **React, Vite, TailwindCSS, Redux Toolkit, Context API, and React Toastify**.  
-It allows users to explore food categories, add items to the cart, switch between **dark/light mode**, and experience smooth responsive design.
+**GrubGo** is a modern and responsive **Food Delivery Web App** built with **React, Vite, Tailwind CSS, Redux Toolkit, Context API, and React-Toastify**.  
+It offers a clean UI, dark/light mode, category-based filtering, and cart management for a smooth user experience.  
 
 ---
 
-## 🚀 Features
-- 🌗 **Dark & Light Theme Toggle**
-- 🛒 **Add to Cart, Remove from Cart**
-- 🍕 **Filter Food by Categories (Pizza, Burger, Drinks, etc.)**
-- 🔥 **State Management with Redux Toolkit + Context API**
-- 🎨 **TailwindCSS Styling**
-- 📱 **Fully Responsive UI**
-- ⚡ **Optimized with Vite**
+## 🌐 Live Demo  
+👉 [Click Here to Explore GrubGo](https://gautambisoi.github.io/GrubGo/)  
 
 ---
 
-## 🖼️ Screenshots
+## ✨ Features
+- 🌙 **Dark / Light Mode Toggle**  
+- 🍕 **Food Categories Filter** (Burger, Pizza, Drinks, etc.)  
+- 🛒 **Cart Management with Redux Toolkit**  
+- 🔔 **Toast Notifications for actions**  
+- 📱 **Fully Responsive (Tailwind CSS)**  
+- ⚡ **Optimized with Vite**  
+
+---
+
+## 📸 Screenshots  
 
 ### 🏠 Home Page
 ![Home Page](./screenshots/home.png)
@@ -26,32 +30,47 @@ It allows users to explore food categories, add items to the cart, switch betwee
 
 ### 🌙 Dark Mode
 ![Dark Mode](./screenshots/dark.png)
+
+
+
 ---
 
 ## 🛠️ Tech Stack
-- **React + Vite**
-- **Tailwind CSS**
-- **Redux Toolkit**
-- **Context API**
-- **React Toastify**
+- **React + Vite** ⚛️  
+- **Tailwind CSS** 🎨  
+- **Redux Toolkit** 🗂️  
+- **Context API**  
+- **React Toastify** 🔔  
 
 ---
 
-## ⚡ Installation
+## 🚀 Getting Started  
 
-Clone the repository and install dependencies:
-
+### 1️⃣ Clone the repo
 ```bash
 git clone https://github.com/GAUTAMBISOI/GrubGo.git
 cd GrubGo
+2️⃣ Install dependencies
+bash
+Copy
+Edit
 npm install
+3️⃣ Run locally
+bash
+Copy
+Edit
 npm run dev
-🌍 Deployment
+4️⃣ Build for production
+bash
+Copy
+Edit
+npm run build
+📌 Deployment
+Deployed on GitHub Pages using gh-pages.
+App is live at 👉 https://gautambisoi.github.io/GrubGo/
 
-This project is deployed using GitHub Pages.
-🔗 Live Demo → GrubGo
+👨‍💻 Author
+Gautam Bisoi
+🔗 GitHub Profile
 
-📌 Author
 
-👨‍💻 Gautam Bisoi
-Passionate about Frontend Development, React, and Web Animations 🚀
