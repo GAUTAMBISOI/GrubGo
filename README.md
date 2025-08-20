@@ -25,7 +25,7 @@ It allows users to explore food categories, add items to the cart, switch betwee
 ![Cart Page](./screenshots/cart.png)
 
 ### 🌙 Dark Mode
-![Dark Mode](./screenshots/dark mode.png)
+![Dark Mode](./screenshots/dark.png)
 ---
 
 ## 🛠️ Tech Stack
