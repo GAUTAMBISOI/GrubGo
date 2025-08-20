@@ -46,3 +46,12 @@ git clone https://github.com/GAUTAMBISOI/GrubGo.git
 cd GrubGo
 npm install
 npm run dev
+🌍 Deployment
+
+This project is deployed using GitHub Pages.
+🔗 Live Demo → GrubGo
+
+📌 Author
+
+👨‍💻 Gautam Bisoi
+Passionate about Frontend Development, React, and Web Animations 🚀
